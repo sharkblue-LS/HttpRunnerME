@@ -1,0 +1,993 @@
+2018-06-29 11:14:13,438 [django.request:93] [base:get_response] [WARNING]- Not Found: /
+2018-06-29 11:14:32,678 [HttpRunnerManager:45] [views:login] [INFO]- yinquanwang 登录成功
+2018-06-29 11:14:33,058 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/commons.js
+2018-06-29 11:14:33,499 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/commons.js
+2018-06-29 11:14:58,797 [HttpRunnerManager:45] [views:login] [INFO]- yinquanwang 登录成功
+2018-06-29 11:48:11,403 [HttpRunnerManager:151] [operation:add_case_data] [INFO]- 的用例添加成功: {'test': {'request': {'method': 'POST', 'url': ''}, 'name': '的'}}
+2018-06-29 11:48:48,076 [HttpRunnerManager:45] [views:login] [INFO]- yinquanwang 登录成功
+2018-07-02 13:34:18,047 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/css/css-index.css
+2018-07-02 13:34:18,057 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/img/logo.png
+2018-07-02 13:34:18,268 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/custom.js
+2018-07-02 13:34:18,270 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/jquery.sticky.js
+2018-07-02 13:34:18,276 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/wow.min.js
+2018-07-02 13:34:18,278 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/owl.carousel.min.js
+2018-07-02 13:34:18,296 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/img/bg.jpg
+2018-07-02 13:34:18,299 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/img/loading.GIF
+2018-07-02 13:34:18,352 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/custom.js
+2018-07-02 13:34:18,364 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/jquery.sticky.js
+2018-07-02 13:34:18,370 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/wow.min.js
+2018-07-02 13:34:18,383 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/owl.carousel.min.js
+2018-07-02 13:34:18,578 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/img/favicon.ico
+2018-07-02 13:34:21,442 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/css/css-index.css
+2018-07-02 13:34:21,445 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/custom.js
+2018-07-02 13:34:21,449 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/img/logo.png
+2018-07-02 13:34:21,484 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/jquery.sticky.js
+2018-07-02 13:34:21,487 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/wow.min.js
+2018-07-02 13:34:21,492 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/owl.carousel.min.js
+2018-07-02 13:34:21,508 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/custom.js
+2018-07-02 13:34:21,516 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/img/bg.jpg
+2018-07-02 13:34:21,519 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/img/loading.GIF
+2018-07-02 13:34:21,531 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/jquery.sticky.js
+2018-07-02 13:34:21,540 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/wow.min.js
+2018-07-02 13:34:21,545 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/owl.carousel.min.js
+2018-07-02 13:34:22,424 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/css/css-index.css
+2018-07-02 13:34:22,426 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/img/logo.png
+2018-07-02 13:34:22,429 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/custom.js
+2018-07-02 13:34:22,465 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/jquery.sticky.js
+2018-07-02 13:34:22,466 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/wow.min.js
+2018-07-02 13:34:22,468 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/owl.carousel.min.js
+2018-07-02 13:34:22,480 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/custom.js
+2018-07-02 13:34:22,483 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/img/bg.jpg
+2018-07-02 13:34:22,490 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/img/loading.GIF
+2018-07-02 13:34:22,498 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/jquery.sticky.js
+2018-07-02 13:34:22,506 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/wow.min.js
+2018-07-02 13:34:22,509 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/owl.carousel.min.js
+2018-07-02 13:35:30,488 [HttpRunnerManager:45] [views:login] [INFO]- yinquanwang 登录成功
+2018-07-02 13:48:28,352 [HttpRunnerManager:45] [views:login] [INFO]- yinquanwang 登录成功
+2018-07-02 13:53:41,984 [django.request:118] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /api/test_list/1/
+Traceback (most recent call last):
+  File "E:\Python35\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:/HttpRunnerManager\HttpRunnerManager\activator.py", line 15, in process
+    result = fun(request, index) if index else fun(request)
+  File "D:/HttpRunnerManager\ApiManager\views.py", line 379, in test_list
+    filter_query = set_filter_session(request)
+  File "D:/HttpRunnerManager\ApiManager\utils\common.py", line 439, in set_filter_session
+    'belong_project': request.session['project'],
+  File "E:\Python35\lib\site-packages\django\contrib\sessions\backends\base.py", line 55, in __getitem__
+    return self._session[key]
+KeyError: 'project'
+2018-07-02 13:53:49,147 [django.request:118] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /api/test_list/1/
+Traceback (most recent call last):
+  File "E:\Python35\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:/HttpRunnerManager\HttpRunnerManager\activator.py", line 15, in process
+    result = fun(request, index) if index else fun(request)
+  File "D:/HttpRunnerManager\ApiManager\views.py", line 379, in test_list
+    filter_query = set_filter_session(request)
+  File "D:/HttpRunnerManager\ApiManager\utils\common.py", line 439, in set_filter_session
+    'belong_project': request.session['project'],
+  File "E:\Python35\lib\site-packages\django\contrib\sessions\backends\base.py", line 55, in __getitem__
+    return self._session[key]
+KeyError: 'project'
+2018-07-02 13:54:04,117 [HttpRunnerManager:78] [views:log_out] [INFO]- yinquanwang退出
+2018-07-02 13:54:07,459 [HttpRunnerManager:45] [views:login] [INFO]- yinquanwang 登录成功
+2018-07-02 13:57:09,661 [HttpRunnerManager:78] [views:log_out] [INFO]- yinquanwang退出
+2018-07-02 13:57:11,824 [HttpRunnerManager:45] [views:login] [INFO]- yinquanwang 登录成功
+2018-07-02 14:04:39,039 [HttpRunnerManager:78] [views:log_out] [INFO]- yinquanwang退出
+2018-07-02 14:04:44,830 [HttpRunnerManager:45] [views:login] [INFO]- yinquanwang 登录成功
+2018-07-02 14:04:54,650 [django.request:118] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /api/test_list/1/
+Traceback (most recent call last):
+  File "E:\Python35\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\HttpRunnerManager\HttpRunnerManager\activator.py", line 15, in process
+    result = fun(request, index) if index else fun(request)
+  File "D:\HttpRunnerManager\ApiManager\views.py", line 379, in test_list
+    filter_query = set_filter_session(request)
+  File "D:\HttpRunnerManager\ApiManager\utils\common.py", line 432, in set_filter_session
+    request.session['module'] = ModuleInfo.objects.get(id=request.POST.get('module')).module_name
+  File "E:\Python35\lib\site-packages\django\db\models\manager.py", line 82, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "E:\Python35\lib\site-packages\django\db\models\query.py", line 394, in get
+    clone = self.filter(*args, **kwargs)
+  File "E:\Python35\lib\site-packages\django\db\models\query.py", line 836, in filter
+    return self._filter_or_exclude(False, *args, **kwargs)
+  File "E:\Python35\lib\site-packages\django\db\models\query.py", line 854, in _filter_or_exclude
+    clone.query.add_q(Q(*args, **kwargs))
+  File "E:\Python35\lib\site-packages\django\db\models\sql\query.py", line 1253, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "E:\Python35\lib\site-packages\django\db\models\sql\query.py", line 1277, in _add_q
+    split_subq=split_subq,
+  File "E:\Python35\lib\site-packages\django\db\models\sql\query.py", line 1215, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+  File "E:\Python35\lib\site-packages\django\db\models\sql\query.py", line 1085, in build_lookup
+    lookup = lookup_class(lhs, rhs)
+  File "E:\Python35\lib\site-packages\django\db\models\lookups.py", line 18, in __init__
+    self.rhs = self.get_prep_lookup()
+  File "E:\Python35\lib\site-packages\django\db\models\lookups.py", line 68, in get_prep_lookup
+    return self.lhs.output_field.get_prep_value(self.rhs)
+  File "E:\Python35\lib\site-packages\django\db\models\fields\__init__.py", line 947, in get_prep_value
+    return int(value)
+ValueError: invalid literal for int() with base 10: ''
+2018-07-02 14:06:02,565 [django.request:118] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /api/config_list/1/
+Traceback (most recent call last):
+  File "E:\Python35\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\HttpRunnerManager\HttpRunnerManager\activator.py", line 15, in process
+    result = fun(request, index) if index else fun(request)
+  File "D:\HttpRunnerManager\ApiManager\views.py", line 413, in config_list
+    filter_query = set_filter_session(request)
+  File "D:\HttpRunnerManager\ApiManager\utils\common.py", line 432, in set_filter_session
+    request.session['module'] = ModuleInfo.objects.get(id=request.POST.get('module')).module_name
+  File "E:\Python35\lib\site-packages\django\db\models\manager.py", line 82, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "E:\Python35\lib\site-packages\django\db\models\query.py", line 394, in get
+    clone = self.filter(*args, **kwargs)
+  File "E:\Python35\lib\site-packages\django\db\models\query.py", line 836, in filter
+    return self._filter_or_exclude(False, *args, **kwargs)
+  File "E:\Python35\lib\site-packages\django\db\models\query.py", line 854, in _filter_or_exclude
+    clone.query.add_q(Q(*args, **kwargs))
+  File "E:\Python35\lib\site-packages\django\db\models\sql\query.py", line 1253, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "E:\Python35\lib\site-packages\django\db\models\sql\query.py", line 1277, in _add_q
+    split_subq=split_subq,
+  File "E:\Python35\lib\site-packages\django\db\models\sql\query.py", line 1215, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+  File "E:\Python35\lib\site-packages\django\db\models\sql\query.py", line 1085, in build_lookup
+    lookup = lookup_class(lhs, rhs)
+  File "E:\Python35\lib\site-packages\django\db\models\lookups.py", line 18, in __init__
+    self.rhs = self.get_prep_lookup()
+  File "E:\Python35\lib\site-packages\django\db\models\lookups.py", line 68, in get_prep_lookup
+    return self.lhs.output_field.get_prep_value(self.rhs)
+  File "E:\Python35\lib\site-packages\django\db\models\fields\__init__.py", line 947, in get_prep_value
+    return int(value)
+ValueError: invalid literal for int() with base 10: ''
+2018-07-02 14:24:14,328 [HttpRunnerManager:78] [views:log_out] [INFO]- yinquanwang退出
+2018-07-02 14:24:16,921 [HttpRunnerManager:45] [views:login] [INFO]- yinquanwang 登录成功
+2018-07-02 14:27:17,963 [django.request:118] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /api/project_list/1/
+Traceback (most recent call last):
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 475, in parse
+    compile_func = self.tags[command]
+KeyError: 'endif'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Python35\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\HttpRunnerManager\HttpRunnerManager\activator.py", line 15, in process
+    result = fun(request, index) if index else fun(request)
+  File "D:\HttpRunnerManager\ApiManager\views.py", line 323, in project_list
+    return render_to_response('project_list.html', manage_info)
+  File "E:\Python35\lib\site-packages\django\shortcuts.py", line 27, in render_to_response
+    content = loader.render_to_string(template_name, context, using=using)
+  File "E:\Python35\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "E:\Python35\lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+  File "E:\Python35\lib\site-packages\django\template\backends\django.py", line 34, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "E:\Python35\lib\site-packages\django\template\engine.py", line 144, in get_template
+    template, origin = self.find_template(template_name)
+  File "E:\Python35\lib\site-packages\django\template\engine.py", line 126, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "E:\Python35\lib\site-packages\django\template\loaders\base.py", line 30, in get_template
+    contents, origin, origin.template_name, self.engine,
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 160, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 198, in compile_nodelist
+    return parser.parse()
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 483, in parse
+    raise self.error(token, e)
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 481, in parse
+    compiled_result = compile_func(self, token)
+  File "E:\Python35\lib\site-packages\django\template\loader_tags.py", line 290, in do_extends
+    nodelist = parser.parse()
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 483, in parse
+    raise self.error(token, e)
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 481, in parse
+    compiled_result = compile_func(self, token)
+  File "E:\Python35\lib\site-packages\django\template\loader_tags.py", line 233, in do_block
+    nodelist = parser.parse(('endblock',))
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 477, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 533, in invalid_block_tag
+    get_text_list(["'%s'" % p for p in parse_until], 'or'),
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 176: 'endif', expected 'endblock'. Did you forget to register or load this tag?
+2018-07-02 14:27:44,949 [django.request:118] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /api/project_list/1/
+Traceback (most recent call last):
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 475, in parse
+    compile_func = self.tags[command]
+KeyError: 'endif'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Python35\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\HttpRunnerManager\HttpRunnerManager\activator.py", line 15, in process
+    result = fun(request, index) if index else fun(request)
+  File "D:\HttpRunnerManager\ApiManager\views.py", line 323, in project_list
+    return render_to_response('project_list.html', manage_info)
+  File "E:\Python35\lib\site-packages\django\shortcuts.py", line 27, in render_to_response
+    content = loader.render_to_string(template_name, context, using=using)
+  File "E:\Python35\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "E:\Python35\lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+  File "E:\Python35\lib\site-packages\django\template\backends\django.py", line 34, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "E:\Python35\lib\site-packages\django\template\engine.py", line 144, in get_template
+    template, origin = self.find_template(template_name)
+  File "E:\Python35\lib\site-packages\django\template\engine.py", line 126, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "E:\Python35\lib\site-packages\django\template\loaders\base.py", line 30, in get_template
+    contents, origin, origin.template_name, self.engine,
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 160, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 198, in compile_nodelist
+    return parser.parse()
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 483, in parse
+    raise self.error(token, e)
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 481, in parse
+    compiled_result = compile_func(self, token)
+  File "E:\Python35\lib\site-packages\django\template\loader_tags.py", line 290, in do_extends
+    nodelist = parser.parse()
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 483, in parse
+    raise self.error(token, e)
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 481, in parse
+    compiled_result = compile_func(self, token)
+  File "E:\Python35\lib\site-packages\django\template\loader_tags.py", line 233, in do_block
+    nodelist = parser.parse(('endblock',))
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 477, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 533, in invalid_block_tag
+    get_text_list(["'%s'" % p for p in parse_until], 'or'),
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 176: 'endif', expected 'endblock'. Did you forget to register or load this tag?
+2018-07-02 14:27:47,983 [django.request:118] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /api/project_list/1/
+Traceback (most recent call last):
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 475, in parse
+    compile_func = self.tags[command]
+KeyError: 'endif'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Python35\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\HttpRunnerManager\HttpRunnerManager\activator.py", line 15, in process
+    result = fun(request, index) if index else fun(request)
+  File "D:\HttpRunnerManager\ApiManager\views.py", line 323, in project_list
+    return render_to_response('project_list.html', manage_info)
+  File "E:\Python35\lib\site-packages\django\shortcuts.py", line 27, in render_to_response
+    content = loader.render_to_string(template_name, context, using=using)
+  File "E:\Python35\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "E:\Python35\lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+  File "E:\Python35\lib\site-packages\django\template\backends\django.py", line 34, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "E:\Python35\lib\site-packages\django\template\engine.py", line 144, in get_template
+    template, origin = self.find_template(template_name)
+  File "E:\Python35\lib\site-packages\django\template\engine.py", line 126, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "E:\Python35\lib\site-packages\django\template\loaders\base.py", line 30, in get_template
+    contents, origin, origin.template_name, self.engine,
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 160, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 198, in compile_nodelist
+    return parser.parse()
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 483, in parse
+    raise self.error(token, e)
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 481, in parse
+    compiled_result = compile_func(self, token)
+  File "E:\Python35\lib\site-packages\django\template\loader_tags.py", line 290, in do_extends
+    nodelist = parser.parse()
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 483, in parse
+    raise self.error(token, e)
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 481, in parse
+    compiled_result = compile_func(self, token)
+  File "E:\Python35\lib\site-packages\django\template\loader_tags.py", line 233, in do_block
+    nodelist = parser.parse(('endblock',))
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 477, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 533, in invalid_block_tag
+    get_text_list(["'%s'" % p for p in parse_until], 'or'),
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 176: 'endif', expected 'endblock'. Did you forget to register or load this tag?
+2018-07-02 14:28:16,257 [HttpRunnerManager:78] [views:log_out] [INFO]- yinquanwang退出
+2018-07-02 14:28:18,192 [HttpRunnerManager:45] [views:login] [INFO]- yinquanwang 登录成功
+2018-07-02 14:37:16,138 [django.request:118] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /api/project_list/1/
+Traceback (most recent call last):
+  File "E:\Python35\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\HttpRunnerManager\HttpRunnerManager\activator.py", line 15, in process
+    result = fun(request, index) if index else fun(request)
+  File "D:\HttpRunnerManager\ApiManager\views.py", line 311, in project_list
+    filter_query = set_filter_session(request)
+  File "D:\HttpRunnerManager\ApiManager\utils\common.py", line 442, in set_filter_session
+    'belong_project': request.session['project'],
+  File "E:\Python35\lib\site-packages\django\contrib\sessions\backends\base.py", line 55, in __getitem__
+    return self._session[key]
+KeyError: 'project'
+2018-07-02 14:37:20,563 [django.request:118] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /api/project_list/1/
+Traceback (most recent call last):
+  File "E:\Python35\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\HttpRunnerManager\HttpRunnerManager\activator.py", line 15, in process
+    result = fun(request, index) if index else fun(request)
+  File "D:\HttpRunnerManager\ApiManager\views.py", line 311, in project_list
+    filter_query = set_filter_session(request)
+  File "D:\HttpRunnerManager\ApiManager\utils\common.py", line 442, in set_filter_session
+    'belong_project': request.session['project'],
+  File "E:\Python35\lib\site-packages\django\contrib\sessions\backends\base.py", line 55, in __getitem__
+    return self._session[key]
+KeyError: 'project'
+2018-07-02 14:37:24,899 [HttpRunnerManager:78] [views:log_out] [INFO]- yinquanwang退出
+2018-07-02 14:37:26,773 [HttpRunnerManager:45] [views:login] [INFO]- yinquanwang 登录成功
+2018-07-02 14:37:30,837 [django.request:118] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /api/add_case/
+Traceback (most recent call last):
+  File "E:\Python35\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\HttpRunnerManager\HttpRunnerManager\activator.py", line 15, in process
+    result = fun(request, index) if index else fun(request)
+  File "D:\HttpRunnerManager\ApiManager\views.py", line 170, in add_case
+    msg = case_info_logic(**testcase_info)
+  File "D:\HttpRunnerManager\ApiManager\utils\common.py", line 210, in case_info_logic
+    test = kwargs.pop('test')
+KeyError: 'test'
+2018-07-02 14:37:33,775 [django.request:118] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /api/add_case/
+Traceback (most recent call last):
+  File "E:\Python35\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\HttpRunnerManager\HttpRunnerManager\activator.py", line 15, in process
+    result = fun(request, index) if index else fun(request)
+  File "D:\HttpRunnerManager\ApiManager\views.py", line 170, in add_case
+    msg = case_info_logic(**testcase_info)
+  File "D:\HttpRunnerManager\ApiManager\utils\common.py", line 210, in case_info_logic
+    test = kwargs.pop('test')
+KeyError: 'test'
+2018-07-02 14:39:25,603 [HttpRunnerManager:78] [views:log_out] [INFO]- yinquanwang退出
+2018-07-02 14:39:27,918 [HttpRunnerManager:45] [views:login] [INFO]- yinquanwang 登录成功
+2018-07-02 14:43:42,829 [HttpRunnerManager:78] [views:log_out] [INFO]- yinquanwang退出
+2018-07-02 14:43:44,932 [HttpRunnerManager:45] [views:login] [INFO]- yinquanwang 登录成功
+2018-07-02 14:47:52,728 [HttpRunnerManager:78] [views:log_out] [INFO]- yinquanwang退出
+2018-07-02 14:47:54,981 [HttpRunnerManager:45] [views:login] [INFO]- yinquanwang 登录成功
+2018-07-02 14:55:50,890 [HttpRunnerManager:78] [views:log_out] [INFO]- yinquanwang退出
+2018-07-02 14:55:53,036 [HttpRunnerManager:45] [views:login] [INFO]- yinquanwang 登录成功
+2018-07-02 14:57:17,859 [django.request:118] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /api/module_list/1/
+Traceback (most recent call last):
+  File "E:\Python35\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\HttpRunnerManager\HttpRunnerManager\activator.py", line 15, in process
+    result = fun(request, index) if index else fun(request)
+  File "D:\HttpRunnerManager\ApiManager\views.py", line 345, in module_list
+    filter_query = set_filter_session(request)
+  File "D:\HttpRunnerManager\ApiManager\utils\common.py", line 433, in set_filter_session
+    request.session['module'] = ModuleInfo.objects.get(id=request.POST.get('module')).module_name
+  File "E:\Python35\lib\site-packages\django\db\models\manager.py", line 82, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "E:\Python35\lib\site-packages\django\db\models\query.py", line 394, in get
+    clone = self.filter(*args, **kwargs)
+  File "E:\Python35\lib\site-packages\django\db\models\query.py", line 836, in filter
+    return self._filter_or_exclude(False, *args, **kwargs)
+  File "E:\Python35\lib\site-packages\django\db\models\query.py", line 854, in _filter_or_exclude
+    clone.query.add_q(Q(*args, **kwargs))
+  File "E:\Python35\lib\site-packages\django\db\models\sql\query.py", line 1253, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "E:\Python35\lib\site-packages\django\db\models\sql\query.py", line 1277, in _add_q
+    split_subq=split_subq,
+  File "E:\Python35\lib\site-packages\django\db\models\sql\query.py", line 1215, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+  File "E:\Python35\lib\site-packages\django\db\models\sql\query.py", line 1085, in build_lookup
+    lookup = lookup_class(lhs, rhs)
+  File "E:\Python35\lib\site-packages\django\db\models\lookups.py", line 18, in __init__
+    self.rhs = self.get_prep_lookup()
+  File "E:\Python35\lib\site-packages\django\db\models\lookups.py", line 68, in get_prep_lookup
+    return self.lhs.output_field.get_prep_value(self.rhs)
+  File "E:\Python35\lib\site-packages\django\db\models\fields\__init__.py", line 947, in get_prep_value
+    return int(value)
+ValueError: invalid literal for int() with base 10: '用例_quant_login_out(登入登出)'
+2018-07-02 14:59:50,449 [HttpRunnerManager:78] [views:log_out] [INFO]- yinquanwang退出
+2018-07-02 14:59:52,333 [HttpRunnerManager:45] [views:login] [INFO]- yinquanwang 登录成功
+2021-11-19 17:20:14,541 [django.request:93] [base:get_response] [WARNING]- Not Found: /
+2021-11-19 17:20:55,809 [django.request:93] [base:get_response] [WARNING]- Not Found: /
+2021-11-19 17:21:33,809 [django.request:93] [base:get_response] [WARNING]- Not Found: /
+2021-11-19 17:26:09,692 [HttpRunnerManager:60] [views:login] [INFO]- root 登录失败, 请检查用户名或者密码
+2021-11-19 17:30:11,750 [HttpRunnerManager:60] [views:login] [INFO]- root 登录失败, 请检查用户名或者密码
+2021-11-19 17:30:35,549 [HttpRunnerManager:60] [views:login] [INFO]- root 登录失败, 请检查用户名或者密码
+2021-11-19 17:31:41,184 [HttpRunnerManager:35] [operation:add_register_data] [INFO]- 新增用户：ApiManager.UserInfo.objects
+2021-11-19 17:31:48,085 [HttpRunnerManager:55] [views:login] [INFO]- liusha 登录成功
+2021-11-19 17:53:38,788 [HttpRunnerManager:55] [views:login] [INFO]- liusha 登录成功
+2021-11-19 17:55:07,985 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/index/static/js/echarts.min.js
+2021-11-19 17:55:38,708 [HttpRunnerManager:55] [views:login] [INFO]- liusha 登录成功
+2021-11-19 17:55:38,832 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/index/static/js/echarts.min.js
+2021-11-19 17:56:24,322 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/index/static/js/echarts.min.js
+2021-11-19 18:07:21,436 [HttpRunnerManager:55] [views:login] [INFO]- liusha 登录成功
+2021-11-19 18:07:21,557 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/js/china.js
+2021-11-19 18:07:21,558 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/index/static/js/dataTool.min.js
+2021-11-19 18:07:21,560 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/js/echarts.min.js
+2021-11-19 18:07:21,562 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/js/world.js
+2021-11-19 18:07:21,563 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/js/ecStat.min.js
+2021-11-19 18:07:21,565 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/js/bmap.min.js
+2021-11-19 18:08:07,719 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/js/echarts.min.js
+2021-11-19 18:08:08,054 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/js/ecStat.min.js
+2021-11-19 18:08:08,059 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/index/static/js/dataTool.min.js
+2021-11-19 18:08:08,063 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/js/china.js
+2021-11-19 18:08:08,067 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/js/world.js
+2021-11-19 18:08:08,083 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/js/bmap.min.js
+2021-11-19 18:11:45,686 [HttpRunnerManager:55] [views:login] [INFO]- liusha 登录成功
+2021-11-19 18:11:45,813 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/dataTool.min.js
+2021-11-19 18:11:45,815 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/world.js
+2021-11-19 18:11:45,817 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/ecStat.min.js
+2021-11-19 18:11:45,820 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/china.js
+2021-11-19 18:11:45,821 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/bmap.min.js
+2021-11-19 18:11:45,822 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts.min.js
+2021-11-19 18:11:46,599 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts.min.js
+2021-11-19 18:11:46,824 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/ecStat.min.js
+2021-11-19 18:11:46,829 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/dataTool.min.js
+2021-11-19 18:11:46,833 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/china.js
+2021-11-19 18:11:46,837 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/world.js
+2021-11-19 18:11:47,015 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/bmap.min.js
+2021-11-19 18:17:12,630 [HttpRunnerManager:60] [views:login] [INFO]- liusha 登录失败, 请检查用户名或者密码
+2021-11-19 18:17:39,467 [HttpRunnerManager:55] [views:login] [INFO]- liusha 登录成功
+2021-11-19 18:17:39,599 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/china.js
+2021-11-19 18:17:39,601 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/ecStat.min.js
+2021-11-19 18:17:39,603 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/bmap.min.js
+2021-11-19 18:17:39,604 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts.min.js
+2021-11-19 18:17:39,607 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/dataTool.min.js
+2021-11-19 18:17:39,608 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/world.js
+2021-11-19 18:17:39,664 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts.min.js
+2021-11-19 18:17:39,896 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/ecStat.min.js
+2021-11-19 18:17:39,901 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/dataTool.min.js
+2021-11-19 18:17:39,905 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/china.js
+2021-11-19 18:17:39,909 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/world.js
+2021-11-19 18:17:39,934 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/bmap.min.js
+2021-11-19 18:21:15,022 [django.request:118] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /api/index/
+Traceback (most recent call last):
+  File "E:\HttpRunnerME\venv\lib\site-packages\django\template\base.py", line 475, in parse
+    compile_func = self.tags[command]
+KeyError: "static'/assets/js/echarts.min.js'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\HttpRunnerME\venv\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\HttpRunnerME\venv\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\HttpRunnerME\venv\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\HttpRunnerME\HttpRunnerManager\activator.py", line 15, in process
+    result = fun(request, index) if index else fun(request)
+  File "E:\HttpRunnerME\ApiManager\views.py", line 39, in wrapper
+    return func(request, *args, **kwargs)
+  File "E:\HttpRunnerME\ApiManager\views.py", line 122, in index
+    return render_to_response('index.html', manage_info)
+  File "E:\HttpRunnerME\venv\lib\site-packages\django\shortcuts.py", line 27, in render_to_response
+    content = loader.render_to_string(template_name, context, using=using)
+  File "E:\HttpRunnerME\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "E:\HttpRunnerME\venv\lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+  File "E:\HttpRunnerME\venv\lib\site-packages\django\template\backends\django.py", line 34, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "E:\HttpRunnerME\venv\lib\site-packages\django\template\engine.py", line 144, in get_template
+    template, origin = self.find_template(template_name)
+  File "E:\HttpRunnerME\venv\lib\site-packages\django\template\engine.py", line 126, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "E:\HttpRunnerME\venv\lib\site-packages\django\template\loaders\base.py", line 30, in get_template
+    contents, origin, origin.template_name, self.engine,
+  File "E:\HttpRunnerME\venv\lib\site-packages\django\template\base.py", line 160, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "E:\HttpRunnerME\venv\lib\site-packages\django\template\base.py", line 198, in compile_nodelist
+    return parser.parse()
+  File "E:\HttpRunnerME\venv\lib\site-packages\django\template\base.py", line 483, in parse
+    raise self.error(token, e)
+  File "E:\HttpRunnerME\venv\lib\site-packages\django\template\base.py", line 481, in parse
+    compiled_result = compile_func(self, token)
+  File "E:\HttpRunnerME\venv\lib\site-packages\django\template\loader_tags.py", line 290, in do_extends
+    nodelist = parser.parse()
+  File "E:\HttpRunnerME\venv\lib\site-packages\django\template\base.py", line 483, in parse
+    raise self.error(token, e)
+  File "E:\HttpRunnerME\venv\lib\site-packages\django\template\base.py", line 481, in parse
+    compiled_result = compile_func(self, token)
+  File "E:\HttpRunnerME\venv\lib\site-packages\django\template\loader_tags.py", line 233, in do_block
+    nodelist = parser.parse(('endblock',))
+  File "E:\HttpRunnerME\venv\lib\site-packages\django\template\base.py", line 477, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "E:\HttpRunnerME\venv\lib\site-packages\django\template\base.py", line 533, in invalid_block_tag
+    get_text_list(["'%s'" % p for p in parse_until], 'or'),
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 32: 'static'/assets/js/echarts.min.js'', expected 'endblock'. Did you forget to register or load this tag?
+2021-11-19 18:22:23,788 [django.request:118] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /api/index/
+Traceback (most recent call last):
+  File "E:\HttpRunnerME\venv\lib\site-packages\django\template\base.py", line 475, in parse
+    compile_func = self.tags[command]
+KeyError: "static'/assets/js/echarts.min.js'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\HttpRunnerME\venv\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\HttpRunnerME\venv\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\HttpRunnerME\venv\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\HttpRunnerME\HttpRunnerManager\activator.py", line 15, in process
+    result = fun(request, index) if index else fun(request)
+  File "E:\HttpRunnerME\ApiManager\views.py", line 39, in wrapper
+    return func(request, *args, **kwargs)
+  File "E:\HttpRunnerME\ApiManager\views.py", line 122, in index
+    return render_to_response('index.html', manage_info)
+  File "E:\HttpRunnerME\venv\lib\site-packages\django\shortcuts.py", line 27, in render_to_response
+    content = loader.render_to_string(template_name, context, using=using)
+  File "E:\HttpRunnerME\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "E:\HttpRunnerME\venv\lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+  File "E:\HttpRunnerME\venv\lib\site-packages\django\template\backends\django.py", line 34, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "E:\HttpRunnerME\venv\lib\site-packages\django\template\engine.py", line 144, in get_template
+    template, origin = self.find_template(template_name)
+  File "E:\HttpRunnerME\venv\lib\site-packages\django\template\engine.py", line 126, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "E:\HttpRunnerME\venv\lib\site-packages\django\template\loaders\base.py", line 30, in get_template
+    contents, origin, origin.template_name, self.engine,
+  File "E:\HttpRunnerME\venv\lib\site-packages\django\template\base.py", line 160, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "E:\HttpRunnerME\venv\lib\site-packages\django\template\base.py", line 198, in compile_nodelist
+    return parser.parse()
+  File "E:\HttpRunnerME\venv\lib\site-packages\django\template\base.py", line 483, in parse
+    raise self.error(token, e)
+  File "E:\HttpRunnerME\venv\lib\site-packages\django\template\base.py", line 481, in parse
+    compiled_result = compile_func(self, token)
+  File "E:\HttpRunnerME\venv\lib\site-packages\django\template\loader_tags.py", line 290, in do_extends
+    nodelist = parser.parse()
+  File "E:\HttpRunnerME\venv\lib\site-packages\django\template\base.py", line 483, in parse
+    raise self.error(token, e)
+  File "E:\HttpRunnerME\venv\lib\site-packages\django\template\base.py", line 481, in parse
+    compiled_result = compile_func(self, token)
+  File "E:\HttpRunnerME\venv\lib\site-packages\django\template\loader_tags.py", line 233, in do_block
+    nodelist = parser.parse(('endblock',))
+  File "E:\HttpRunnerME\venv\lib\site-packages\django\template\base.py", line 477, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "E:\HttpRunnerME\venv\lib\site-packages\django\template\base.py", line 533, in invalid_block_tag
+    get_text_list(["'%s'" % p for p in parse_until], 'or'),
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 32: 'static'/assets/js/echarts.min.js'', expected 'endblock'. Did you forget to register or load this tag?
+2021-11-19 18:23:08,744 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts.min.js
+2021-11-19 18:23:08,749 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/ecStat.min.js
+2021-11-19 18:23:08,752 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/dataTool.min.js
+2021-11-19 18:23:08,754 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/bmap.min.js
+2021-11-19 18:23:08,756 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/china.js
+2021-11-19 18:23:08,757 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/world.js
+2021-11-19 18:23:08,806 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts.min.js
+2021-11-19 18:23:09,791 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/ecStat.min.js
+2021-11-19 18:23:09,797 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/dataTool.min.js
+2021-11-19 18:23:09,802 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/china.js
+2021-11-19 18:23:09,807 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/world.js
+2021-11-19 18:23:09,825 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/bmap.min.js
+2021-11-19 18:23:48,141 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts.min.js
+2021-11-19 18:23:48,145 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/ecStat.min.js
+2021-11-19 18:23:48,151 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/dataTool.min.js
+2021-11-19 18:23:48,155 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/bmap.min.js
+2021-11-19 18:23:48,159 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/china.js
+2021-11-19 18:23:48,162 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/world.js
+2021-11-19 18:23:48,213 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts.min.js
+2021-11-19 18:24:08,434 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/ecStat.min.js
+2021-11-19 18:24:08,439 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/dataTool.min.js
+2021-11-19 18:24:08,443 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/china.js
+2021-11-19 18:24:08,448 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/world.js
+2021-11-19 18:24:08,463 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/bmap.min.js
+2021-11-19 18:24:17,570 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts.min.js
+2021-11-19 18:24:17,572 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/ecStat.min.js
+2021-11-19 18:24:17,573 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/china.js
+2021-11-19 18:24:17,575 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/dataTool.min.js
+2021-11-19 18:24:17,579 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/world.js
+2021-11-19 18:24:17,581 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/bmap.min.js
+2021-11-19 18:24:17,624 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts.min.js
+2021-11-19 18:24:17,724 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/ecStat.min.js
+2021-11-19 18:24:17,729 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/dataTool.min.js
+2021-11-19 18:24:17,733 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/china.js
+2021-11-19 18:24:17,738 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/world.js
+2021-11-19 18:24:17,751 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/bmap.min.js
+2021-11-19 18:27:56,142 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts.min.js
+2021-11-19 18:27:56,146 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/ecStat.min.js
+2021-11-19 18:27:56,149 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/dataTool.min.js
+2021-11-19 18:27:56,152 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/china.js
+2021-11-19 18:27:56,155 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/world.js
+2021-11-19 18:27:56,157 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/bmap.min.js
+2021-11-19 18:27:56,198 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts.min.js
+2021-11-19 18:27:56,440 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/ecStat.min.js
+2021-11-19 18:27:56,445 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/dataTool.min.js
+2021-11-19 18:27:56,450 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/china.js
+2021-11-19 18:27:56,454 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/world.js
+2021-11-19 18:27:56,467 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/bmap.min.js
+2021-11-19 18:30:29,326 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts.min.js
+2021-11-19 18:30:29,329 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/ecStat.min.js
+2021-11-19 18:30:29,332 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/dataTool.min.js
+2021-11-19 18:30:29,335 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/china.js
+2021-11-19 18:30:29,338 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/world.js
+2021-11-19 18:30:29,340 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/bmap.min.js
+2021-11-19 18:30:29,381 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts.min.js
+2021-11-19 18:30:30,526 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/ecStat.min.js
+2021-11-19 18:30:30,530 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/dataTool.min.js
+2021-11-19 18:30:30,535 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/china.js
+2021-11-19 18:30:30,539 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/world.js
+2021-11-19 18:30:30,553 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/bmap.min.js
+2021-11-19 18:40:08,229 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts.min.js
+2021-11-19 18:40:08,232 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/china.js
+2021-11-19 18:40:08,234 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/dataTool.min.js
+2021-11-19 18:40:08,235 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/ecStat.min.js
+2021-11-19 18:40:08,239 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/world.js
+2021-11-19 18:40:08,240 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/bmap.min.js
+2021-11-19 18:40:08,315 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts.min.js
+2021-11-19 18:40:08,547 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/ecStat.min.js
+2021-11-19 18:40:08,551 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/dataTool.min.js
+2021-11-19 18:40:08,556 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/china.js
+2021-11-19 18:40:08,560 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/world.js
+2021-11-19 18:40:08,579 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/bmap.min.js
+2021-11-19 18:51:27,509 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts-gl.min.js
+2021-11-19 18:51:27,513 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/simplex.js
+2021-11-19 18:51:27,515 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts.min.js
+2021-11-19 18:51:27,518 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/ecStat.min.js
+2021-11-19 18:51:27,521 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/dataTool.min.js
+2021-11-19 18:51:27,523 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/china.js
+2021-11-19 18:51:27,526 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/world.js
+2021-11-19 18:51:27,531 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/bmap.min.js
+2021-11-19 18:51:27,596 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts.min.js
+2021-11-19 18:51:27,601 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts-gl.min.js
+2021-11-19 18:51:27,605 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/ecStat.min.js
+2021-11-19 18:51:27,609 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/dataTool.min.js
+2021-11-19 18:51:27,614 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/china.js
+2021-11-19 18:51:27,618 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/world.js
+2021-11-19 18:51:27,638 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/bmap.min.js
+2021-11-19 18:51:27,643 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/simplex.js
+2021-11-19 18:52:13,381 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts.min.js
+2021-11-19 18:53:18,312 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts.min.js
+2021-11-19 18:53:23,260 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts.min.js
+2021-11-19 18:55:40,664 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts.min.js
+2021-11-19 18:55:43,641 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts.min.js
+2021-11-19 18:55:54,969 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts.min.js
+2021-11-19 18:55:54,973 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts-gl.min.js
+2021-11-19 18:55:54,975 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/ecStat.min.js
+2021-11-19 18:55:54,976 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/dataTool.min.js
+2021-11-19 18:55:54,981 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/china.js
+2021-11-19 18:55:54,983 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/world.js
+2021-11-19 18:55:54,986 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/simplex.js
+2021-11-19 18:55:54,990 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/bmap.min.js
+2021-11-19 18:55:55,073 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts.min.js
+2021-11-19 18:55:55,077 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts-gl.min.js
+2021-11-19 18:55:55,082 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/ecStat.min.js
+2021-11-19 18:55:55,087 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/dataTool.min.js
+2021-11-19 18:55:55,092 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/china.js
+2021-11-19 18:55:55,096 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/world.js
+2021-11-19 18:55:55,116 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/bmap.min.js
+2021-11-19 18:55:55,126 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/simplex.js
+2021-11-19 18:56:37,768 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts.min.js
+2021-11-19 18:56:37,772 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/world.js
+2021-11-19 18:56:37,775 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts-gl.min.js
+2021-11-19 18:56:37,776 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/dataTool.min.js
+2021-11-19 18:56:37,777 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/china.js
+2021-11-19 18:56:37,778 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/ecStat.min.js
+2021-11-19 18:56:37,784 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/bmap.min.js
+2021-11-19 18:56:37,786 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/simplex.js
+2021-11-19 18:56:37,864 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts.min.js
+2021-11-19 18:56:37,869 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts-gl.min.js
+2021-11-19 18:56:37,873 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/ecStat.min.js
+2021-11-19 18:56:37,878 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/dataTool.min.js
+2021-11-19 18:56:37,883 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/china.js
+2021-11-19 18:56:37,887 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/world.js
+2021-11-19 18:56:37,910 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/bmap.min.js
+2021-11-19 18:56:37,920 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/simplex.js
+2021-11-19 18:56:45,564 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts.min.js
+2021-11-19 18:56:45,567 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/ecStat.min.js
+2021-11-19 18:56:45,569 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts-gl.min.js
+2021-11-19 18:56:45,571 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/dataTool.min.js
+2021-11-19 18:56:45,574 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/china.js
+2021-11-19 18:56:45,576 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/world.js
+2021-11-19 18:56:45,580 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/bmap.min.js
+2021-11-19 18:56:45,584 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/simplex.js
+2021-11-19 18:56:45,618 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts.min.js
+2021-11-19 18:56:45,623 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts-gl.min.js
+2021-11-19 18:56:45,627 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/ecStat.min.js
+2021-11-19 18:56:45,633 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/dataTool.min.js
+2021-11-19 18:56:45,637 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/china.js
+2021-11-19 18:56:45,642 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/world.js
+2021-11-19 18:56:45,656 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/bmap.min.js
+2021-11-19 18:56:45,666 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/simplex.js
+2021-11-19 18:58:29,306 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts.min.js
+2021-11-19 18:58:29,309 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts-gl.min.js
+2021-11-19 18:58:29,311 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/ecStat.min.js
+2021-11-19 18:58:29,314 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/dataTool.min.js
+2021-11-19 18:58:29,317 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/china.js
+2021-11-19 18:58:29,320 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/world.js
+2021-11-19 18:58:29,323 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/simplex.js
+2021-11-19 18:58:29,327 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/bmap.min.js
+2021-11-19 18:58:29,362 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts.min.js
+2021-11-19 18:58:29,366 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts-gl.min.js
+2021-11-19 18:58:29,372 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/ecStat.min.js
+2021-11-19 18:58:29,376 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/dataTool.min.js
+2021-11-19 18:58:29,381 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/china.js
+2021-11-19 18:58:29,386 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/world.js
+2021-11-19 18:58:29,399 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/bmap.min.js
+2021-11-19 18:58:29,411 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/simplex.js
+2021-11-19 18:58:37,013 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts.min.js
+2021-11-19 18:58:37,018 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts-gl.min.js
+2021-11-19 18:58:37,020 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/ecStat.min.js
+2021-11-19 18:58:37,024 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/dataTool.min.js
+2021-11-19 18:58:37,026 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/china.js
+2021-11-19 18:58:37,028 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/world.js
+2021-11-19 18:58:37,031 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/simplex.js
+2021-11-19 18:58:37,035 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/bmap.min.js
+2021-11-19 18:58:37,067 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts.min.js
+2021-11-19 18:58:37,073 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts-gl.min.js
+2021-11-19 18:58:37,078 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/ecStat.min.js
+2021-11-19 18:58:37,082 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/dataTool.min.js
+2021-11-19 18:58:37,087 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/china.js
+2021-11-19 18:58:37,092 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/world.js
+2021-11-19 18:58:37,106 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/bmap.min.js
+2021-11-19 18:58:37,112 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/simplex.js
+2021-11-19 18:59:35,552 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts.min.js
+2021-11-19 18:59:35,555 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts-gl.min.js
+2021-11-19 18:59:35,558 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/ecStat.min.js
+2021-11-19 18:59:35,562 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/dataTool.min.js
+2021-11-19 18:59:35,565 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/china.js
+2021-11-19 18:59:35,568 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/world.js
+2021-11-19 18:59:35,571 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/bmap.min.js
+2021-11-19 18:59:35,573 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/simplex.js
+2021-11-19 18:59:35,608 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts.min.js
+2021-11-19 18:59:35,614 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts-gl.min.js
+2021-11-19 18:59:35,619 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/ecStat.min.js
+2021-11-19 18:59:35,624 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/dataTool.min.js
+2021-11-19 18:59:35,629 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/china.js
+2021-11-19 18:59:35,634 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/world.js
+2021-11-19 18:59:35,649 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/bmap.min.js
+2021-11-19 18:59:35,660 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/simplex.js
+2021-11-19 19:01:14,521 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts.min.js
+2021-11-19 19:01:14,527 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts-gl.min.js
+2021-11-19 19:01:14,528 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/ecStat.min.js
+2021-11-19 19:01:14,531 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/dataTool.min.js
+2021-11-19 19:01:14,533 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/china.js
+2021-11-19 19:01:14,536 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/world.js
+2021-11-19 19:01:14,540 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/bmap.min.js
+2021-11-19 19:01:14,544 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/simplex.js
+2021-11-19 19:01:14,575 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts.min.js
+2021-11-19 19:01:14,581 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts-gl.min.js
+2021-11-19 19:01:14,586 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/ecStat.min.js
+2021-11-19 19:01:14,590 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/dataTool.min.js
+2021-11-19 19:01:14,595 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/china.js
+2021-11-19 19:01:14,600 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/world.js
+2021-11-19 19:01:14,615 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/bmap.min.js
+2021-11-19 19:01:14,620 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/simplex.js
+2021-11-19 19:01:29,184 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts.min.js
+2021-11-19 19:01:29,187 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts-gl.min.js
+2021-11-19 19:01:29,189 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/ecStat.min.js
+2021-11-19 19:01:29,193 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/dataTool.min.js
+2021-11-19 19:01:29,196 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/china.js
+2021-11-19 19:01:29,198 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/world.js
+2021-11-19 19:01:29,201 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/simplex.js
+2021-11-19 19:01:29,205 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/bmap.min.js
+2021-11-19 19:01:29,238 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts.min.js
+2021-11-19 19:01:29,244 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts-gl.min.js
+2021-11-19 19:01:29,249 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/ecStat.min.js
+2021-11-19 19:01:29,253 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/dataTool.min.js
+2021-11-19 19:01:29,258 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/china.js
+2021-11-19 19:01:29,262 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/world.js
+2021-11-19 19:01:29,277 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/bmap.min.js
+2021-11-19 19:01:29,294 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/simplex.js
+2021-11-19 19:03:12,066 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts.min.js
+2021-11-19 19:03:12,069 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts-gl.min.js
+2021-11-19 19:03:12,071 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/ecStat.min.js
+2021-11-19 19:03:12,075 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/dataTool.min.js
+2021-11-19 19:03:12,078 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/china.js
+2021-11-19 19:03:12,081 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/world.js
+2021-11-19 19:03:12,083 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/bmap.min.js
+2021-11-19 19:03:12,087 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/simplex.js
+2021-11-19 19:03:12,120 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts.min.js
+2021-11-19 19:03:12,125 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts-gl.min.js
+2021-11-19 19:03:12,131 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/ecStat.min.js
+2021-11-19 19:03:12,135 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/dataTool.min.js
+2021-11-19 19:03:12,139 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/china.js
+2021-11-19 19:03:12,144 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/world.js
+2021-11-19 19:03:12,158 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/bmap.min.js
+2021-11-19 19:03:12,166 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/simplex.js
+2021-11-19 19:03:29,036 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts.min.js
+2021-11-19 19:03:29,038 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts-gl.min.js
+2021-11-19 19:03:29,041 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/ecStat.min.js
+2021-11-19 19:03:29,044 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/dataTool.min.js
+2021-11-19 19:03:29,048 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/china.js
+2021-11-19 19:03:29,050 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/world.js
+2021-11-19 19:03:29,052 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/bmap.min.js
+2021-11-19 19:03:29,057 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/simplex.js
+2021-11-19 19:03:29,092 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts.min.js
+2021-11-19 19:03:29,096 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts-gl.min.js
+2021-11-19 19:03:29,101 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/ecStat.min.js
+2021-11-19 19:03:29,106 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/dataTool.min.js
+2021-11-19 19:03:29,110 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/china.js
+2021-11-19 19:03:29,115 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/world.js
+2021-11-19 19:03:29,128 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/bmap.min.js
+2021-11-19 19:03:29,134 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/simplex.js
+2021-11-19 19:04:18,291 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts.min.js
+2021-11-19 19:04:18,293 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts-gl.min.js
+2021-11-19 19:04:18,296 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/ecStat.min.js
+2021-11-19 19:04:18,301 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/dataTool.min.js
+2021-11-19 19:04:18,304 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/china.js
+2021-11-19 19:04:18,307 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/world.js
+2021-11-19 19:04:18,310 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/bmap.min.js
+2021-11-19 19:04:18,312 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/simplex.js
+2021-11-19 19:04:18,347 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts.min.js
+2021-11-19 19:04:18,353 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts-gl.min.js
+2021-11-19 19:04:18,358 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/ecStat.min.js
+2021-11-19 19:04:18,361 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/dataTool.min.js
+2021-11-19 19:04:18,366 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/china.js
+2021-11-19 19:04:18,372 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/world.js
+2021-11-19 19:04:18,386 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/bmap.min.js
+2021-11-19 19:04:18,396 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/simplex.js
+2021-11-19 19:04:55,462 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts.min.js
+2021-11-19 19:04:55,467 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/ecStat.min.js
+2021-11-19 19:04:55,468 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts-gl.min.js
+2021-11-19 19:04:55,470 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/dataTool.min.js
+2021-11-19 19:04:55,475 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/simplex.js
+2021-11-19 19:04:55,480 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/china.js
+2021-11-19 19:04:55,482 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/bmap.min.js
+2021-11-19 19:04:55,485 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/world.js
+2021-11-19 19:04:55,518 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts.min.js
+2021-11-19 19:04:55,522 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts-gl.min.js
+2021-11-19 19:04:55,527 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/ecStat.min.js
+2021-11-19 19:04:55,532 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/dataTool.min.js
+2021-11-19 19:04:55,537 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/china.js
+2021-11-19 19:04:55,541 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/world.js
+2021-11-19 19:04:55,555 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/bmap.min.js
+2021-11-19 19:04:55,560 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/simplex.js
+2021-11-19 19:08:17,631 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts.min.js
+2021-11-19 19:08:17,637 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/dataTool.min.js
+2021-11-19 19:08:17,638 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/ecStat.min.js
+2021-11-19 19:08:17,639 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts-gl.min.js
+2021-11-19 19:08:17,641 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/china.js
+2021-11-19 19:08:17,642 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/world.js
+2021-11-19 19:08:17,647 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/simplex.js
+2021-11-19 19:08:17,651 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/bmap.min.js
+2021-11-19 19:08:17,685 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts.min.js
+2021-11-19 19:08:17,691 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts-gl.min.js
+2021-11-19 19:08:17,696 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/ecStat.min.js
+2021-11-19 19:08:17,700 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/dataTool.min.js
+2021-11-19 19:08:17,705 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/china.js
+2021-11-19 19:08:17,709 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/world.js
+2021-11-19 19:08:17,725 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/bmap.min.js
+2021-11-19 19:08:17,735 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/simplex.js
+2021-11-19 19:08:27,716 [HttpRunnerManager:55] [views:login] [INFO]- liusha 登录成功
+2021-11-19 19:08:27,831 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts.min.js
+2021-11-19 19:08:27,834 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts-gl.min.js
+2021-11-19 19:08:27,835 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/ecStat.min.js
+2021-11-19 19:08:27,839 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/dataTool.min.js
+2021-11-19 19:08:27,842 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/china.js
+2021-11-19 19:08:27,844 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/world.js
+2021-11-19 19:08:27,848 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/bmap.min.js
+2021-11-19 19:08:27,852 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/simplex.js
+2021-11-19 19:08:27,892 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts.min.js
+2021-11-19 19:08:27,898 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts-gl.min.js
+2021-11-19 19:08:27,902 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/ecStat.min.js
+2021-11-19 19:08:27,907 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/dataTool.min.js
+2021-11-19 19:08:27,913 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/china.js
+2021-11-19 19:08:27,917 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/world.js
+2021-11-19 19:08:27,931 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/bmap.min.js
+2021-11-19 19:08:27,943 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/simplex.js
+2021-11-19 19:11:01,865 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts.min.js
+2021-11-19 19:11:01,867 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts-gl.min.js
+2021-11-19 19:11:01,869 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/ecStat.min.js
+2021-11-19 19:11:01,872 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/dataTool.min.js
+2021-11-19 19:11:01,875 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/china.js
+2021-11-19 19:11:01,877 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/world.js
+2021-11-19 19:11:01,882 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/bmap.min.js
+2021-11-19 19:11:01,884 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/simplex.js
+2021-11-19 19:11:01,949 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts.min.js
+2021-11-19 19:11:01,953 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts-gl.min.js
+2021-11-19 19:11:01,958 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/ecStat.min.js
+2021-11-19 19:11:01,963 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/dataTool.min.js
+2021-11-19 19:11:01,967 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/china.js
+2021-11-19 19:11:01,973 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/world.js
+2021-11-19 19:11:01,993 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/bmap.min.js
+2021-11-19 19:11:01,999 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/simplex.js
+2021-11-19 19:11:30,186 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts.min.js
+2021-11-19 19:11:30,189 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/dataTool.min.js
+2021-11-19 19:11:30,190 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/ecStat.min.js
+2021-11-19 19:11:30,191 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts-gl.min.js
+2021-11-19 19:11:30,193 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/china.js
+2021-11-19 19:11:30,194 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/world.js
+2021-11-19 19:11:30,201 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/bmap.min.js
+2021-11-19 19:11:30,204 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/simplex.js
+2021-11-19 19:11:30,276 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts.min.js
+2021-11-19 19:11:30,281 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts-gl.min.js
+2021-11-19 19:11:30,286 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/ecStat.min.js
+2021-11-19 19:11:30,290 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/dataTool.min.js
+2021-11-19 19:11:30,295 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/china.js
+2021-11-19 19:11:30,300 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/world.js
+2021-11-19 19:11:30,324 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/bmap.min.js
+2021-11-19 19:11:30,335 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/simplex.js
+2021-11-19 19:11:51,476 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts-gl.min.js
+2021-11-19 19:11:51,478 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts.min.js
+2021-11-19 19:11:51,479 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/ecStat.min.js
+2021-11-19 19:11:51,483 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/dataTool.min.js
+2021-11-19 19:11:51,485 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/china.js
+2021-11-19 19:11:51,489 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/world.js
+2021-11-19 19:11:51,492 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/simplex.js
+2021-11-19 19:11:51,494 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/bmap.min.js
+2021-11-19 19:11:51,532 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts.min.js
+2021-11-19 19:11:51,537 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts-gl.min.js
+2021-11-19 19:11:51,541 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/ecStat.min.js
+2021-11-19 19:11:51,545 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/dataTool.min.js
+2021-11-19 19:11:51,551 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/china.js
+2021-11-19 19:11:51,555 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/world.js
+2021-11-19 19:11:51,570 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/bmap.min.js
+2021-11-19 19:11:51,574 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/simplex.js
+2021-11-19 19:14:39,073 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/dataTool.min.js
+2021-11-19 19:14:39,077 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/china.js
+2021-11-19 19:14:39,079 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts-gl.min.js
+2021-11-19 19:14:39,080 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/ecStat.min.js
+2021-11-19 19:14:39,082 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/world.js
+2021-11-19 19:14:39,087 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/bmap.min.js
+2021-11-19 19:14:39,091 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/simplex.js
+2021-11-19 19:14:39,162 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/echarts-gl.min.js
+2021-11-19 19:14:39,168 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/ecStat.min.js
+2021-11-19 19:14:39,173 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/dataTool.min.js
+2021-11-19 19:14:39,177 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/china.js
+2021-11-19 19:14:39,181 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/world.js
+2021-11-19 19:14:39,196 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/bmap.min.js
+2021-11-19 19:14:39,208 [django.request:93] [base:get_response] [WARNING]- Not Found: /api/static/assets/js/simplex.js
+2021-11-19 19:18:32,603 [HttpRunnerManager:55] [views:login] [INFO]- liusha 登录成功
+2021-11-19 19:27:24,063 [HttpRunnerManager:55] [views:login] [INFO]- liusha 登录成功
+2021-11-19 19:28:43,412 [HttpRunnerManager:62] [operation:add_project_data] [INFO]- 项目添加成功：{'project_name': '测试项目', 'responsible_name': '刘沙', 'test_user': '刘沙', 'dev_user': '刘沙', 'publish_app': '测试应用', 'simple_desc': '', 'other_desc': ''}
+2021-11-19 19:29:18,313 [HttpRunnerManager:110] [operation:add_module_data] [INFO]- 模块添加成功：{'module_name': '测试模块', 'test_user': '刘沙', 'simple_desc': '', 'other_desc': '', 'belong_project': <ProjectInfo: ProjectInfo object (1)>}
+2021-11-19 19:29:47,397 [HttpRunnerManager:154] [operation:add_case_data] [INFO]- 测试登录用例添加成功: {'test': {'request': {'url': '', 'method': 'POST'}, 'name': '测试登录'}}
+2021-11-19 19:30:38,136 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 测试登录用例更新成功: {'test': {'request': {'url': 'https://www.baidu.com/', 'method': 'GET'}, 'name': '测试登录'}}
+2021-11-19 19:33:57,450 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 测试登录用例更新成功: {'test': {'request': {'url': 'https://www.baidu.com/', 'method': 'GET'}, 'name': '测试登录', 'variables': [{'status_code': '200'}]}}
+2021-11-19 19:36:42,120 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 测试登录用例更新成功: {'test': {'request': {'url': 'https://www.baidu.com/', 'method': 'GET'}, 'name': '测试登录', 'variables': [{'status_code': '100'}]}}
+2021-11-19 19:40:11,089 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 测试登录用例更新成功: {'test': {'request': {'url': 'https://www.baidu.com/', 'method': 'GET'}, 'name': '测试登录', 'validate': [{'comparator': 'equals', 'check': 'status_code', 'expected': '100'}]}}
