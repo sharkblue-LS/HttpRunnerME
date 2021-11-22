@@ -991,3 +991,13 @@ django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 32: 's
 2021-11-19 19:33:57,450 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 测试登录用例更新成功: {'test': {'request': {'url': 'https://www.baidu.com/', 'method': 'GET'}, 'name': '测试登录', 'variables': [{'status_code': '200'}]}}
 2021-11-19 19:36:42,120 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 测试登录用例更新成功: {'test': {'request': {'url': 'https://www.baidu.com/', 'method': 'GET'}, 'name': '测试登录', 'variables': [{'status_code': '100'}]}}
 2021-11-19 19:40:11,089 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 测试登录用例更新成功: {'test': {'request': {'url': 'https://www.baidu.com/', 'method': 'GET'}, 'name': '测试登录', 'validate': [{'comparator': 'equals', 'check': 'status_code', 'expected': '100'}]}}
+2021-11-22 14:43:38,990 [HttpRunnerManager:55] [views:login] [INFO]- liusha 登录成功
+2021-11-22 14:44:12,493 [HttpRunnerManager:89] [views:log_out] [INFO]- liusha退出
+2021-11-22 14:44:32,987 [HttpRunnerManager:55] [views:login] [INFO]- liusha 登录成功
+2021-11-22 15:04:36,557 [HttpRunnerManager:89] [views:log_out] [INFO]- liusha退出
+2021-11-22 15:04:47,643 [HttpRunnerManager:55] [views:login] [INFO]- liusha 登录成功
+2021-11-22 15:24:34,961 [HttpRunnerManager:125] [operation:add_module_data] [INFO]- 模块更新成功：{'module_name': '测试模块', 'test_user': '刘沙', 'simple_desc': '一二三描述', 'other_desc': '一二三描述'}
+2021-11-22 15:54:56,250 [HttpRunnerManager:60] [views:login] [INFO]- liusha 登录失败, 请检查用户名或者密码
+2021-11-22 15:55:00,537 [HttpRunnerManager:55] [views:login] [INFO]- liusha 登录成功
+2021-11-22 16:01:21,139 [HttpRunnerManager:55] [views:login] [INFO]- liusha 登录成功
+2021-11-22 17:07:16,473 [HttpRunnerManager:55] [views:login] [INFO]- liusha 登录成功

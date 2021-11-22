@@ -8,11 +8,16 @@
     <meta name='robots' content='noodp, noydir'/>
     <meta name='viewport' content='width=device-width, initial-scale=1'/>
     <meta id="timeStampFormat" name="timeStampFormat" content='MMM d, yyyy hh:mm:ss a'/>
+    {% load staticfiles %}
 
-    <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600' rel='stylesheet' type='text/css'>
-    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+{#    <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600' rel='stylesheet' type='text/css'>#}
+    <link href='{% static 'assets/css/fontgoogle.css' %}' rel='stylesheet' type='text/css'>
 
-    <link href='http://extentreports.com/resx/dist/css/extent.css' type='text/css' rel='stylesheet'/>
+{#    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">#}
+    <link href="{% static 'assets/css/material-icons.css' %}" rel="stylesheet">
+
+{#    <link href='http://extentreports.com/resx/dist/css/extent.css' type='text/css' rel='stylesheet'/>#}
+    <link href='{% static 'assets/css/extent.css' %}' type='text/css' rel='stylesheet'/>
 
     <title>{{ html_report_name }} - TestReport</title>
 
@@ -734,7 +739,8 @@
 
 </script>
 
-<script src='http://extentreports.com/resx/dist/js/extent.js' type='text/javascript'></script>
+{#<script src='http://extentreports.com/resx/dist/js/extent.js' type='text/javascript'></script>#}
+<script src='{% static 'assets/css/extent.css' %}' type='text/javascript'></script>
 
 
 <script type='text/javascript'>
